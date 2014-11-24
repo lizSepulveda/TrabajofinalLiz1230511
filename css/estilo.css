@@ -1,0 +1,54 @@
+﻿body,html,h1,h2,h3,h4,h5,h6 {
+			margin: 0;
+			padding: 0;
+			border: 0;
+            /*background-image: url('../imagenes/degradado.jpg');*/
+            background-color: black;
+		}
+		#pagina {
+			width: 1020px;
+			height:auto;
+			margin: 0 auto;
+			background-color: black;
+		}
+		#encabezado {
+			width:1020px;
+            height:250px;
+            background-image: url('../imagenes/banner.jpg');
+            background-repeat: no-repeat;
+            -webkit-background-size: 1020px 250px;
+            background-size: 1020px 250px;
+		}
+		
+		#contenido {
+			width: 1020px;
+			height:680px;
+			float: right;
+			padding: 0px;
+            background-color: black;
+			/*background-image: url('../imagenes/banner1.jpg');*/
+			background-repeat: no-repeat;
+			background-position: center;
+			font-family:Arial;
+			
+		}
+		#pie {
+			height: 100px;
+			clear: both;
+			background-color: black;
+           
+		}
+		#navbar {
+			height:40px;
+			width:1020px;
+			padding: 0;
+            background-color: black;
+		}
+
+p {
+    text-align:center;
+    font-style:oblique;
+    color:gray;
+    color: rgb(0,255,255,);
+}
+
